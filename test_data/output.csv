@@ -1,0 +1,4 @@
+image1,image2,similar,elapsed
+test_data/image1.jpeg,test_data/image2.jpeg,0,0.013431072235107422
+test_data/image3.jpeg,test_data/image4.jpeg,2063.425065273755,0.002079010009765625
+test_data/image5.jpeg,test_data/image6.jpeg,1031.2686361952447,0.002176046371459961
